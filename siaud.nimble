@@ -1,6 +1,6 @@
 version       = "0.1.0"
 author        = "levovix0"
-description   = "Simple audio output/input/read/write library"
+description   = "Native asynchronous audio output/input/read/write library"
 license       = "MIT"
 srcDir        = "src"
 
